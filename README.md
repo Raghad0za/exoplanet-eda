@@ -3,7 +3,7 @@
 
 **Author:** Raghad Alasmari · Tuwaiq Academy, Unit 3 Final EDA Project
 
-**Live dashboard:** _link coming soon_
+**Live dashboard:** [exoplanet-explorer-eda.streamlit.app](https://exoplanet-explorer-eda.streamlit.app)
 
 **Dataset:** [NASA Exoplanet Archive – Planetary Systems Composite Parameters](https://exoplanetarchive.ipac.caltech.edu)
 
